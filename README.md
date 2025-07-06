@@ -4,6 +4,8 @@
 
 HTML5、CSS3、JavaScript（ES6）のみを使用し、オリジナルのゲーム体験の再現を試みました。
 
+![image](https://github.com/user-attachments/assets/cc74eb14-2df9-42dc-b866-17bdcaee5046)
+
 ## 🎯 ゲーム特徴
 
 - **忠実な再現**: 1978年版の挙動とグラフィックを細部まで再現
@@ -43,3 +45,6 @@ HTML5、CSS3、JavaScript（ES6）のみを使用し、オリジナルのゲー�
 - **上段インベーダー**: 30点
 - **UFO**: 50〜300点（ランダム）
 
+## ライセンス
+
+MITライセンスで公開しています。
